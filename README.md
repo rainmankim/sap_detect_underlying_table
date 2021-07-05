@@ -15,8 +15,8 @@ Contact author: rainmankim@gmail.com
 ```
 
 
-## First, t
-### (1) Ensure your scripting is enabled on your SAP.
+
+### (1) Type your T-code and search for data
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105824646-99659980-5ff9-11eb-9dcb-3cdbd9a4efbf.png" alt="SAP image">
 
 #### You might need to request your IT department to allow this.
