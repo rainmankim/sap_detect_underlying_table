@@ -17,7 +17,12 @@ Contact author: rainmankim@gmail.com
 
 
 ### (1) Type your T-code and search for data
-<img align="center" src="https://user-images.githubusercontent.com/62319355/105824646-99659980-5ff9-11eb-9dcb-3cdbd9a4efbf.png" alt="SAP image">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/124501634-82bb3e00-ddf4-11eb-9fac-aa06453e0c9c.png" alt="SAP image">
+
+### (2) Click target field cell and press F1 (Help)
+<img align="center" src="https://user-images.githubusercontent.com/62319355/124501634-82bb3e00-ddf4-11eb-9fac-aa06453e0c9c.png" alt="SAP image">
+
+
 
 #### You might need to request your IT department to allow this.
 ### (2) Download Stefan Schnell's SAP Script Recorder.
