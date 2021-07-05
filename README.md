@@ -5,11 +5,11 @@
 ## Detect Underlying Table in SAP
 ```
 In this repository, we will learn about how to detect underlying tables in SAP.
-Once you detect relevant SAP table, you will be able to pull from database.
+Once you detect relevant SAP table, you will be able to pull from database in your company.
 
 When is this useful?
 - When you know what T-code to use and where the data field can be found in SAP log-on.
-- When you do not know hwo to locate this field from database
+- When you do not know how to locate this field from database
 
 Contact author: rainmankim@gmail.com
 ```
@@ -20,7 +20,7 @@ Contact author: rainmankim@gmail.com
 <img align="center" src="https://user-images.githubusercontent.com/62319355/124501634-82bb3e00-ddf4-11eb-9fac-aa06453e0c9c.png" alt="SAP image">
 
 ### (2) Click target field cell and press F1 (Help)
-<img align="center" src="https://user-images.githubusercontent.com/62319355/124501634-82bb3e00-ddf4-11eb-9fac-aa06453e0c9c.png" alt="SAP image">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/124501871-efced380-ddf4-11eb-95d2-ca196affa04e.png" alt="SAP image">
 
 
 
