@@ -20,7 +20,7 @@ Contact author: rainmankim@gmail.com
 <img align="center" src="https://user-images.githubusercontent.com/62319355/124501634-82bb3e00-ddf4-11eb-9fac-aa06453e0c9c.png" alt="SAP image">
 
 ### (2) Click target field cell and press F1 (Help)
-<img align="center" src="https://user-images.githubusercontent.com/62319355/124501871-efced380-ddf4-11eb-95d2-ca196affa04e.png" alt="SAP image">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/124502087-5c49d280-ddf5-11eb-944a-b3d5b16934af.png" alt="SAP image">
 
 
 
