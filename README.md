@@ -1,10 +1,8 @@
-# sap_detect_underlying_table
-
 <img align="left" src="https://user-images.githubusercontent.com/62319355/105017774-2307eb00-5a7f-11eb-94e6-4c22b2b6f77c.png" width="150" height="80" alt="SAP image">
 
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 
-## SAP-Excel Automation using Python
+## Detect Underlying Table in SAP
 ```
 Hi,  my name is Ray Kim. I am here to share my experience in SAP automation. 
 I am the furtherest thing from an expert but I hope my codes can help you.
